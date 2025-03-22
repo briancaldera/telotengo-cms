@@ -36,5 +36,13 @@
   },
   "strapi": {
     "uuid": "036f2801-61b2-4706-9065-40c4d747ec95"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@swc/core",
+      "core-js-pure",
+      "esbuild",
+      "sharp"
+    ]
   }
 }
